@@ -1,1 +1,1 @@
-This is a test of git upload2
+This is a test of git upload
